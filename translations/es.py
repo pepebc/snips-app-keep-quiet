@@ -4,10 +4,10 @@ of the Keep quiet app.
 """
 
 # Result sentences
-RESULT_ENABLE_INTENT = "Ok, he activado la intención {}."
-RESULT_DISABLE_INTENT = "Ok, he desactivado la intención {}."
-RESULT_QUIET = "Ok, permanezco en silencio."
-RESULT_TALK = "Ok, ya hablo otra vez."
+RESULT_ENABLE_INTENT = "Okey, he activado la intención {}."
+RESULT_DISABLE_INTENT = "Okey, he desactivado la intención {}."
+RESULT_QUIET = "Okey, permanezco en silencio."
+RESULT_TALK = "Okey, ya hablo otra vez."
 
 # Intents
 INTENT_ENABLE_INTENT = 'pepebc:EnableIntent'
